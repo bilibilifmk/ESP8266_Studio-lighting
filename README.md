@@ -1,7 +1,7 @@
 
 # 工作室或教室灯光管理系统
             
-  ![](https://github.com/bilibilifmk/ESP8266_Studio-lighting/blob/master/fn.jpg)          
+  ![封面](https://github.com/bilibilifmk/ESP8266_Studio-lighting/blob/master/fn.jpg)          
             
             
             
