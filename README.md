@@ -1,6 +1,10 @@
 
 # 工作室或教室灯光管理系统
             
+  ![](https://github.com/bilibilifmk/ESP8266_Studio-lighting/blob/master/fn.jpg)          
+            
+            
+            
    ## 教室/工作室 灯光控制系统--------- 灯光面板部分
     按钮短按全部控制 长按单独控制
     sg90         *2
