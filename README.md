@@ -1,5 +1,7 @@
 
 # 工作室或教室灯光管理系统
+    
+ ## 演示视频：https://www.bilibili.com/video/av53391110/
             
   ![封面](https://github.com/bilibilifmk/ESP8266_Studio-lighting/blob/master/fn.jpg)          
             
